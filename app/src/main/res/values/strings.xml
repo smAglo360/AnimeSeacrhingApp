@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Animnyaki</string>
+    <string name="enter_your_anime">Enter your anime:</string>
+    <string name="there_s_no_such_result">There\'s no such result</string>
+    <string name="favourite">Favourite</string>
+    <string name="unknown">Unknown</string>
+    <string name="check_out_full_info_on_anime_list">Check out full info on Anime List</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="anime">Anime</string>
+    <string name="top_anime">Top Anime</string>
+    <string name="year_of_creation">Year of creation: %s</string>
+    <string name="reviews">Reviews</string>
+</resources>
